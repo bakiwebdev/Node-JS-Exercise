@@ -1,0 +1,5 @@
+Exercise #3
+
+1. create a new express server
+2. when a request comes in get the image from the api at 
+https://randomfox.ca/floof/ and redirect the user to it.
