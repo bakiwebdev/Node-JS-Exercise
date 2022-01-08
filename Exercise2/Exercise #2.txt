@@ -1,0 +1,18 @@
+Exercise #2
+Write an express app that server the following HTML
+
+<html>
+<head>
+<title>Task App</title>
+</head>
+<body>
+<h1>Things to do</h1>
+<ul>
+<li>Write homework</li>
+<li>Buy groceries</li>
+<li>Prepare dinner</li>
+<li>Watch movie</li>
+</ul>
+</body>
+</html>
+Extra: add external css to the app that makes the list items alternatingly colors
