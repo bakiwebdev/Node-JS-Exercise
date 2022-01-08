@@ -1,0 +1,9 @@
+Exercise #1
+
+setup npm project in empty package and install one-liner-joke.
+then add the missing statement to the bello javascript to make it run 
+and print a joke to the console.
+
+// What is missing here?
+
+console.log(oneLinerJoke.getRandomJoke().body);
