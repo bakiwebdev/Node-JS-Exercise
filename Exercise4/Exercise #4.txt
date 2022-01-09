@@ -1,0 +1,6 @@
+Exercise #4
+
+Same as exercise 1 but now instead of redirecting, 
+return an HTML with an
+* img tag that shows the fox image
+* button "next"that loads a new random image
