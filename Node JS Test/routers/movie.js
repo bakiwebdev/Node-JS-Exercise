@@ -22,5 +22,4 @@ router.patch("/:id", updateMovie);
 
 // delete movie form array
 router.delete("/:id", deleteMovie);
-qqqqqqq                       
 export default router;
